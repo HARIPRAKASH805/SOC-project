@@ -1,6 +1,6 @@
 ## 👤 Author
 
-**HARIPRAKASH805**
+**HARIPRAKASH**
 - GitHub: [HARIPRAKASH](https://github.com/HARIPRAKASH805)
 - Project Link: [SOC Detection Lab](https://github.com/HARIPRAKASH805/SOC-project)
 # 🔐 SOC Detection Lab – SSH Brute Force Attack Detection
