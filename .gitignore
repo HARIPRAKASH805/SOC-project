@@ -1,10 +1,24 @@
 # OS generated files
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
+ehthumbs.db
 
-# Editor files
+# Log files (don't commit real logs — they may contain sensitive data)
+*.log
+*.tmp
+
+# Splunk export artifacts
+*.spl
+*.csv
+
+# Editor directories
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Logs
-*.log
+# Screenshots folder (optional — uncomment if you don't want to commit images)
+# screenshots/
+
